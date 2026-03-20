@@ -93,6 +93,7 @@ Frameworks and datasets for measuring, training, and evaluating AI security tool
 
 - [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) - AI Web3 security tools/skills/agents, constantly updated.
 - [HackenProof AI Agents Directory](https://hackenproof.com/security-ai-agents) - Aggregated directory of AI security agents.
+- [Forefy Auditor Skills Registry](https://forefy.com/skills) - Community-reviewed directory of AI auditing skills for smart contracts.
 
 > For general (non-AI) Web3 security resources, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security), [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security), and [Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools).
 

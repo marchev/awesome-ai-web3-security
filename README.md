@@ -48,6 +48,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 - [AuditBase](https://www.auditbase.com/) - AI audit platform with LLM-based detection of business logic errors. `Freemium`
 - [TestMachine](https://testmachine.ai/) - AI agent for smart contract attack simulation that executes exploits and only reports vulnerabilities that actually succeed. Also provides continuous token monitoring using reinforcement learning to detect behavioral shifts in real time. `Paid`
 - [webrainsec](https://webrainsec.io/) - AI-augmented smart contract security. `Paid`
+- [Zeus](https://zeus-audit.com/) - Language-agnostic AI security scanner delivering audit reports in hours with up to 90% accuracy. Supports continuous security via commit-level analysis. `Freemium`
 
 ## AI Agent Toolkit
 

@@ -28,6 +28,8 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 - [SolidityGuard](https://github.com/alt-research/SolidityGuard) (CLI) - Security auditor with 104 vulnerability patterns and 9 integrated tools (Slither, Mythril, Echidna, Aderyn, Foundry, Medusa, Halmos, Certora, EVMBench). 100% on 85/85 CTF challenges and 120/120 EVMBench score.
 - [Aether](https://github.com/l33tdawg/aether) (CLI) - End-to-end Python auditor with TUI: AST/static analysis (180+ detectors), Halmos symbolic execution, 6-pass LLM reasoning pipeline (GPT/Gemini/Claude), and automated PoC generation with Foundry.
 - [Move Auditor Skills](https://github.com/sanbir/move-auditor-skills) (Skill) - Sui Move security auditing skill with 143 attack vectors, 7 parallel agents, and DeFi protocol checklists across 8 domains.
+- [DarkNavy Contract Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) (Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.
+- [DarkNavy Client Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/client-auditor) (Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.
 
 ### Commercial
 
@@ -61,6 +63,7 @@ Free and open source components you plug into your AI agent's workflow - skills 
 - [Solodit MCP Server](https://github.com/LyuboslavLyubenov/search-solodit-mcp) - MCP server for searching Solodit vulnerability reports by keywords and retrieving full report content.
 - [FTSmartAudit](https://github.com/LLMSmartAudit/FTSmartAudit) - Teacher-student knowledge distillation framework producing fine-tuned models (1B–20B parameters) for smart contract vulnerability detection with 112 vulnerability labels.
 - [ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) - Zero-shot vulnerability detector targeting bugs outside the model's training distribution. Currently includes Slot Sleuth, an EVM storage-safety scanner.
+- [DarkNavy Exploit Investigator](https://github.com/DarkNavySecurity/web3-skills/tree/main/exploit-investigator) - Multi-agent on-chain exploit investigation skill with analyst-validator debate loop, root-cause analysis, and Foundry PoC generation across EVM-compatible chains.
 
 ## AI-Powered On-Chain Monitoring
 

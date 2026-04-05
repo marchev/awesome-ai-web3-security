@@ -63,6 +63,7 @@ Free and open source components you plug into your AI agent's workflow - skills 
 - [Solodit MCP Server](https://github.com/LyuboslavLyubenov/search-solodit-mcp) - MCP server for searching Solodit vulnerability reports by keywords and retrieving full report content.
 - [FTSmartAudit](https://github.com/LLMSmartAudit/FTSmartAudit) - Teacher-student knowledge distillation framework producing fine-tuned models (1B–20B parameters) for smart contract vulnerability detection with 112 vulnerability labels.
 - [ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) - Zero-shot vulnerability detector targeting bugs outside the model's training distribution. Currently includes Slot Sleuth, an EVM storage-safety scanner.
+- [CD Security's AUDIT-PREP](https://github.com/CDSecurity/cdsecurity-skills) - Eight-phase parallel Solidity pre-audit checker that runs inside Claude Code to surface hygiene issues, missing tests, and documentation gaps before formal review.
 - [DarkNavy Exploit Investigator](https://github.com/DarkNavySecurity/web3-skills/tree/main/exploit-investigator) - Multi-agent on-chain exploit investigation skill with analyst-validator debate loop, root-cause analysis, and Foundry PoC generation across EVM-compatible chains.
 
 ## AI-Powered On-Chain Monitoring

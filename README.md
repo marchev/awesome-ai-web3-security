@@ -65,6 +65,7 @@ Free and open source components you plug into your AI agent's workflow - skills 
 - [ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) - Zero-shot vulnerability detector targeting bugs outside the model's training distribution. Currently includes Slot Sleuth, an EVM storage-safety scanner.
 - [CD Security's AUDIT-PREP](https://github.com/CDSecurity/cdsecurity-skills) - Eight-phase parallel Solidity pre-audit checker that runs inside Claude Code to surface hygiene issues, missing tests, and documentation gaps before formal review.
 - [DarkNavy Exploit Investigator](https://github.com/DarkNavySecurity/web3-skills/tree/main/exploit-investigator) - Multi-agent on-chain exploit investigation skill with analyst-validator debate loop, root-cause analysis, and Foundry PoC generation across EVM-compatible chains.
+- [Cholakov's Foundry PoC Mainnet Fork](https://github.com/cholakovvv/foundry-poc-mainnet-fork) - Skill for writing end-to-end Foundry PoC tests that reproduce smart contract vulnerabilities against real deployed protocols on mainnet forks across EVM chains.
 
 ## AI-Powered On-Chain Monitoring
 

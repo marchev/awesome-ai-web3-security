@@ -55,6 +55,7 @@ Free and open source components you plug into your AI agent's workflow - skills 
 
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
 - [Claudit](https://github.com/marchev/claudit) - MCP server for searching Solodit's 20K+ smart contract security findings with rich filtering. Integrates with Claude Code, Codex CLI, and Cursor.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for on-chain trust scoring of AI agent wallets on Solana. Verify agent wallet reputation and retrieve signed trust receipts before authorizing x402 payment flows. Free tools: score_agent, preflight_check. Integrates with any MCP client.
 - [Grimoire](https://github.com/JoranHonig/grimoire) - Security research toolkit for Claude Code that amplifies auditor skill with librarian (reference lookup), cartography (codebase mapping), scribe (detection module distillation), and automated PoC generation.
 - [Certora Prover + AI Composer](https://github.com/Certora/CertoraProver) - State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.
 - [QuillAudits Claude Skills](https://github.com/quillai-network/qs_skills) - 10 specialized skills covering OWASP Smart Contract Top 10: behavioral state analysis, adversarial simulation, invariant inference, Bayesian scoring.

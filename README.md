@@ -21,6 +21,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 - [Hound](https://github.com/scabench-org/hound) (CLI) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.
 - [Plamen](https://github.com/PlamenTSV/plamen) (Skill) - Autonomous Web3 audit agent orchestrating 15–95 AI agents across 8 phases with verified PoC exploits. Supports EVM, Solana/Anchor, Aptos Move, and Sui Move.
 - [Nemesis Auditor](https://github.com/0xiehnnkta/nemesis-auditor) (Skill) - Iterative deep-logic audit agent alternating Feynman Auditor (first-principles reasoning) and State Inconsistency Auditor (coupled state desync detection). Runs until convergence (max 6 passes).
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [Archethect SC-Auditor](https://github.com/Archethect/sc-auditor) (Skill) - Map-Hunt-Attack auditor with 6 parallel hunt agents, Devil's Advocate verification, and 8 MCP tools (Slither, Aderyn, Solodit, Cyfrin checklist, Foundry PoC, Echidna, Medusa, Halmos).
 - [GPTScan](https://github.com/GPTScan/GPTScan) (CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.
 - [SCV Scan](https://github.com/kadenzipfel/scv-scan) (Skill) - Scans Solidity codebases for 36 unique vulnerability classes.

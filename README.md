@@ -94,6 +94,8 @@ Frameworks and datasets for measuring, training, and evaluating AI security tool
 - [Awesome Smart Contract Datasets](https://github.com/acorn421/awesome-smart-contract-datasets) - Meta-list of datasets for training/evaluating ML approaches in smart contract security.
 - [Forge Dataset](https://github.com/shenyimings/FORGE-Artifacts) - LLM-driven dataset construction from 6,454 audit reports → 27,497 findings in 81,390 Solidity files covering 296 CWE categories. Published ICSE 2026.
 - [SCV-1-2000](https://huggingface.co/datasets/darkknight25/Smart_Contract_Vulnerability_Dataset) - 2,000-entry JSONL dataset covering 15 vulnerability categories with PoCs.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
 
 ## Related Lists
 

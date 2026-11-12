@@ -30,6 +30,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 - [Move Auditor Skills](https://github.com/sanbir/move-auditor-skills) (Skill) - Sui Move security auditing skill with 143 attack vectors, 7 parallel agents, and DeFi protocol checklists across 8 domains.
 - [DarkNavy Contract Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) (Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.
 - [DarkNavy Client Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/client-auditor) (Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.
+- [Krait](https://github.com/ZealynxSecurity/krait) - AI-assisted Solidity security auditing workflows for Claude Code; requires a Claude subscription. `Skill` (★ 27)
 
 ### Commercial
 
